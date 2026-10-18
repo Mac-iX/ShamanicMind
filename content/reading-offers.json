@@ -1,0 +1,35 @@
+{
+  "brand": "ShamanicMind",
+  "updated": "2026-10-18",
+  "services": [
+    {
+      "id": "individual",
+      "name": "One-on-one symbolic reading",
+      "priceUSD": 60,
+      "format": [
+        "virtual",
+        "in-person"
+      ],
+      "method": "Numerology-led with optional astrology, Egyptian oracle, and psychological framing",
+      "durationMinutes": null,
+      "bookingUrl": null
+    },
+    {
+      "id": "couples",
+      "name": "Couples symbolic reading",
+      "priceUSD": 150,
+      "format": [
+        "virtual",
+        "in-person"
+      ],
+      "method": "Joint exploration of numerological patterns and relational themes, with symbolic context",
+      "durationMinutes": null,
+      "bookingUrl": null
+    }
+  ],
+  "notes": [
+    "Do not present booking/payment as live before link configured.",
+    "Do not assert a specific duration without confirmation.",
+    "Use ethical framing: readings support reflection and agency."
+  ]
+}
