@@ -21,7 +21,7 @@ Earlier digital temple-library direction and “Know your patterns. Choose your 
 
 ## Services and factual copy
 - Position: symbologist using **numerology** as the core reading method, with astrology, Egyptian oracle cards, and psychological framing integrated in a conversation.
-- One-on-one reading: **$60**.
+- Personal reading: **$60**.
 - Couples reading: **$125**.
 - Both virtual and in-person are offered.
 - Session length range provided: **30–60 minutes**; do not assign an exact length to either reading type without confirmation.

@@ -4,7 +4,7 @@
   "services": [
     {
       "id": "individual",
-      "name": "One-on-one symbolic reading",
+      "name": "Personal reading",
       "priceUSD": 60,
       "format": [
         "virtual",
