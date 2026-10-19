@@ -1,6 +1,6 @@
 {
   "brand": "ShamanicMind",
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "services": [
     {
       "id": "individual",
@@ -11,13 +11,13 @@
         "in-person"
       ],
       "method": "Numerology-led with optional astrology, Egyptian oracle, and psychological framing",
-      "durationMinutes": null,
+      "durationRangeMinutes": [30, 60],
       "bookingUrl": null
     },
     {
       "id": "couples",
       "name": "Couples symbolic reading",
-      "priceUSD": 150,
+      "priceUSD": 125,
       "format": [
         "virtual",
         "in-person"
@@ -29,7 +29,7 @@
   ],
   "notes": [
     "Do not present booking/payment as live before link configured.",
-    "Do not assert a specific duration without confirmation.",
+    "The user provided a general 30–60 minute range; do not assign an exact duration to either reading type without confirmation.",
     "Use ethical framing: readings support reflection and agency."
   ]
 }

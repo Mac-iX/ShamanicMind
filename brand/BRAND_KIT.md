@@ -1,17 +1,19 @@
 # ShamanicMind | Brand kit v0.1
 
 ## Status and provenance
-Working visual foundation. The approved original **golden Egyptian eye logo** and original Pharaoh artwork were referenced in the earlier site, but the binary artwork was not available in the materials recovered for this branch. **Do not fabricate, trace, redraw, or replace either original.** Reserve a place for the genuine supplied originals; add only when recovered, with creator permission.
+Working visual foundation. The existing ShamanicMind Site source preserves the original **golden Egyptian eye logo** and Pharaoh artwork. Keep those exact user-supplied assets intact; do not fabricate, trace, redraw, or replace either original. The GitHub review branch currently carries supporting SVG geometry, not replacement brand art.
 
 Earlier digital temple-library direction and “Know your patterns. Choose your path.” language came from an existing ShamanicMind site record. Current service positioning, pricing, and Symbols & Lore brief were provided October 2026. New geometric SVGs in `assets/` are original decorative working assets, not historic artifacts or an official logo.
 
 ## Visual language
+- Core phrase: **“Discover the symbols behind your lore.”**
+- Editorial focus: personal write-ups on numerology, astrology, mythology, and symbolic traditions.
 - Mood: literary, contemplative, cosmological; art-directed Egyptian references rather than generic fantasy, loud gradients, or fake antiquities.
-- Base: Midnight plum `#130D20`; deep violet `#251334`; amethyst `#644184`.
-- Metals: Antique gold `#D5B172`; bright gold `#F2D9A1`.
-- Body text: Warm parchment `#F5ECDD`; muted lavender `#C7BACF`.
+- Base: Midnight navy `#030817`; deep panel `#080F22`; indigo `#171B3E`.
+- Metals: Warm gold `#E4B94F`; bright gold `#F5D477`.
+- Body text: Warm parchment `#F5F0E4`; muted stone `#C0BDBA`.
 - Borders: translucent antique gold, low contrast.
-- Secondary illustration: astrology grid, celestial orbit, subtle symbolic linework; gradual reveals on scroll with reduced-motion support.
+- Secondary illustration: astrology grid, celestial orbit, subtle Egyptian symbols; gradual reveals on scroll with reduced-motion support.
 - Type: `Cormorant Garamond` or Georgia for editorial headlines, `Inter` or system UI sans for body; wide tracking only on short overlines.
 - Layout: wide breathing room, elevated contrast, generous copy width, mobile-first hierarchy. Never tiny section numbers / decorative indicators.
 - Avoid: magenta neon, excessive gold glows, fake hieroglyph translations, crypto aesthetic, cluttered cards, invented social proof.
@@ -20,9 +22,10 @@ Earlier digital temple-library direction and “Know your patterns. Choose your 
 ## Services and factual copy
 - Position: symbologist using **numerology** as the core reading method, with astrology, Egyptian oracle cards, and psychological framing integrated in a conversation.
 - One-on-one reading: **$60**.
-- Couples reading: **$150**.
+- Couples reading: **$125**.
 - Both virtual and in-person are offered.
-- Duration, booking links, accepted payments, availability, refunds, location, and any health claims: **unconfirmed**. Do not invent.
+- Session length range provided: **30–60 minutes**; do not assign an exact length to either reading type without confirmation.
+- Booking links, accepted payments, availability, refunds, location, and any health claims: **unconfirmed**. Do not invent.
 - Pharaoh is an **in-development app**, not an active reading assistant. Clearly distinguish personal readings from future software.
 - Explain symbolic practice as interpretation and reflection; respect client agency. No certainty claims for divination, medical treatment, or psychological diagnosis.
 
@@ -31,3 +34,7 @@ Earlier digital temple-library direction and “Know your patterns. Choose your 
 - When discussing chakras, label the modern seven-rainbow palette as a modern convention, not universal Sanskrit iconography.
 - Cite source traditions; distinguish primary text, comparative interpretation, and scientifically demonstrable physiology.
 - Use authentic Sanskrit names but avoid invented sacred glyphs.
+
+## Personal story
+- Ground first-person copy in the user-provided details: time in the trenches, darkness alchemized, nearly ten years of self-introspection, hundreds of books in psychology, philosophy, and mythology, and a layered view of perception and nature.
+- Keep the voice poetic and reflective without inventing biographical events or presenting metaphor as evidence.
